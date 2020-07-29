@@ -1,5 +1,5 @@
 def using_include(array, element)
-array.include?("fast!")
+array.include?("arrays!")
 end
 
 def using_sort(array)
